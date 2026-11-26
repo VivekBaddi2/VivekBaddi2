@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Developer<br><br>Building scalable web applications and turning ideas into real-world products.<br><br>⚡ Next.js · React · Node.js · Express · MongoDB<br>🎨 Passionate about clean UI/UX, backend architecture & problem-solving.<br>🌍 From writing code to deploying products, I love the entire process.<br><br>Always building. Always learning. 💻<br>
+🚀 Full-Stack Developer<br><br>Building scalable web applications and turning ideas into real-world products.<br><br>⚡ Next.js · React · Node.js · Express · MongoDB<br>🎨 Passionate about clean UI/UX, backend architecture & problem-solving.<br>🌍 From writing code to deploying products, I love the entire process.<br>👨‍💻 Terminal Addict <br><br>Always building. Always learning. 💻<br>
 
 
 ## 🌐 Socials:
